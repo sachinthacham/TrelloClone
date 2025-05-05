@@ -18,7 +18,7 @@ const MarketingPage = () => {
       <div className="text-sm md:text-xl text-neutral-400 mt-4 max-w-xs md:max-w-2xl text-center">
         Collaborate , manage projects, and reach new productivity peaks.From
         high rises to the home office, the way your team work is
-        unique-Accomplish all with taskify.And get the Full Advantage
+        unique-Accomplish all with taskify.
       </div>
       <button className="bg-amber-200 text-amber-800 rounded-md px-4 py-2 mt-4 cursor-pointer">
         Get Taskify For Free
