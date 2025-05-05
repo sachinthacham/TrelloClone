@@ -1,7 +1,12 @@
+import MarketingLayout from "./pages/Layout";
+import MarketingPage from "./pages/MarketingPage";
+
 function App() {
   return (
     <>
-      <div className="text-blue-600">Hello world sachintha</div>
+      <MarketingLayout>
+        <MarketingPage />
+      </MarketingLayout>
     </>
   );
 }
